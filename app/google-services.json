@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1061325197474",
+    "firebase_url": "https://nadya-137ea-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "nadya-137ea",
+    "storage_bucket": "nadya-137ea.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1061325197474:android:b53e2387a97c5b259087fb",
+        "android_client_info": {
+          "package_name": "com.example.uas_10119242"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1061325197474-o0b2elh7oiq747peps74gpbti6qhhkvr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsD_8gVGp018hIlWI6nbvRCjy7z8AP2XY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1061325197474-o0b2elh7oiq747peps74gpbti6qhhkvr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
